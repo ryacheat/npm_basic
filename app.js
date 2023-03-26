@@ -36,3 +36,5 @@
 2)setup express
 3) create a route "/quote" that returns a random quote each time page is refreshed */
 console.log("hello world")
+//this comment has been written just for test purpose
+console.log("hello after first commit")
